@@ -1,0 +1,13 @@
+name: mat281_modulo4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.6.6
+  - scikit-learn
+  - scipy
+  - rise
