@@ -1,0 +1,5 @@
+name: pycon_ar
+channels:
+  - defaults
+dependencies:
+  - pypsdier
